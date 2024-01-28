@@ -8,7 +8,7 @@ public class VtexDAO {
 	
 	private String url = "jdbc:mysql://localhost:3306/api";
 	private String user = "root";
-	private String password = "admin@123456";
+	private String password = ":)";
 	private static Connection con;
 	
 	public Connection connect() {
